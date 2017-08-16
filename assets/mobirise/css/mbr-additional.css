@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -530,7 +531,23 @@ h6,
 #menu-u .close-icon::after {
   background-color: #ffffff;
 }
+
 #msg-box8-10 .mbr-section-title,
 #msg-box8-10 p {
   color: #fff;
+}
+#msg-box8-10 .mbr-section-title {
+  text-align: left;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#content5-14 .mbr-section-title,
+#content5-14 p {
+  color: #fff;
+}
+#content5-14 .mbr-section-title {
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
 }
