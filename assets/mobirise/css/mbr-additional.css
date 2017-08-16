@@ -664,6 +664,7 @@ h6,
 #menu-3 .close-icon::after {
   background-color: #ffffff;
 }
-#slider3-8 P {
-  text-align: center;
+#msg-box8-10 .mbr-section-title,
+#msg-box8-10 p {
+  color: #fff;
 }
